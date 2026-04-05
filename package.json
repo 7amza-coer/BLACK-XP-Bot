@@ -1,0 +1,12 @@
+{
+  "name": "discord-leveling",
+  "version": "1.0.0",
+  "description": "MongoDB-backed XP/leveling library for discord.js v14",
+  "main": "index.js",
+  "dependencies": {
+    "mongodb": "^6.10.0",
+    "@napi-rs/canvas": "latest",
+    "discord.js": "^14.0.0",
+    "dotenv": "^16.0.0"
+  }
+}
